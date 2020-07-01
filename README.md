@@ -1,4 +1,4 @@
-# Heroku-Node.js-Express-PostgreSQL
+# Heroku Node.js Express PostgreSQL
 
 Coder - Wang Harry
 
